@@ -8,7 +8,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Installation__c.Crew_Notes_c__c</field>
+        <field>Installation__c.Crew_Notes__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
