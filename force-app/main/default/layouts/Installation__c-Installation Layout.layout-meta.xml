@@ -40,7 +40,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Crew_Notes_c__c</field>
+                <field>Crew_Notes__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>
